@@ -14,4 +14,4 @@ How to run the game using Docker:
 4. Run the game with: docker run -it rpsgame
 
 GitHub link:
-(add your link here)
+https://github.com/nawabk598/Assignment-4
